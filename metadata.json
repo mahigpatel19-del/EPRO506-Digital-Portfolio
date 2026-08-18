@@ -1,0 +1,8 @@
+{
+  "name": "EPRO506 Digital Portfolio",
+  "description": "EPRO506 Assessment 3 Digital Portfolio - Working with Children, Families and Communities in Contemporary Society",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
